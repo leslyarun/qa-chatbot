@@ -1,0 +1,7 @@
+langchain
+openai
+uvicorn
+python-dotenv
+chromadb
+unstructured[pdf]
+sentence-transformers
