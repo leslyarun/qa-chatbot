@@ -46,6 +46,10 @@ Send a POST request to `http://localhost:8000/query/` with a PDF document and a 
 
 <img width="1418" alt="image" src="https://github.com/leslyarun/zaniaqa/assets/5101854/0bc1944a-a0f0-4ff3-b89a-61cc03cd88fb">
 
+## Using Postman
+
+<img width="1082" alt="image" src="https://github.com/leslyarun/zaniaqa/assets/5101854/638009b2-6ae0-42f9-84a2-88ca4a415bf9">
+
 
 ## Author
 
