@@ -39,6 +39,13 @@ python main.py
 
 **Making Queries**: Send a POST request to `http://localhost:8000/query/` with a PDF document and a list of questions. The application will return the AI-generated answers.
 
+## Sample Q&A screenshot from Swagger
+
+<img width="1299" alt="image" src="https://github.com/leslyarun/zaniaqa/assets/5101854/fa8917f3-b20f-48b1-bfb5-2f7d939a785d">
+
+<img width="1418" alt="image" src="https://github.com/leslyarun/zaniaqa/assets/5101854/0bc1944a-a0f0-4ff3-b89a-61cc03cd88fb">
+
+
 ## Author
 
 - Lesly
