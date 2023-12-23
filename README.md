@@ -61,6 +61,10 @@ curl -X 'POST' \
   -F 'document=@handbook.pdf;type=application/pdf'
 ```
 
+## Demo 
+
+https://www.loom.com/share/1778b09e882242268bafe1112ce803f0
+
 ## Author
 
 - Lesly
