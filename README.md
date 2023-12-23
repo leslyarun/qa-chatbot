@@ -37,7 +37,8 @@ cp .env.sample .env
 python main.py
 ```
 
-**Making Queries**: Send a POST request to `http://localhost:8000/query/` with a PDF document and a list of questions. The application will return the AI-generated answers.
+## Making Queries
+Send a POST request to `http://localhost:8000/query/` with a PDF document and a list of questions. The application will return the AI-generated answers.
 
 ## Sample Q&A screenshot from Swagger
 
