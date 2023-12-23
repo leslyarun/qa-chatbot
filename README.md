@@ -50,6 +50,16 @@ Send a POST request to `http://localhost:8000/query/` with a PDF document and a 
 
 <img width="1082" alt="image" src="https://github.com/leslyarun/zaniaqa/assets/5101854/638009b2-6ae0-42f9-84a2-88ca4a415bf9">
 
+## Using CURL
+
+```bash
+curl -X 'POST' \
+  'http://0.0.0.0:8000/query/' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: multipart/form-data' \
+  -F 'questions=What is the name of the company?,Who is the CEO of the company?,What is their vacation policy?,What is the termination policy?' \
+  -F 'document=@handbook.pdf;type=application/pdf'
+```
 
 ## Author
 
